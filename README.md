@@ -43,6 +43,6 @@ The firmware uses the original Cardputer's keyboard and screen through
 M5Cardputer and the BLE library bundled with Arduino-ESP32.
 
 Protocol references:
-[BLE connection](https://github.com/sphings79/marstek-ble-control/blob/main/src/lib/transport/WebBluetoothTransport.ts),
-[packet framing](https://github.com/sphings79/marstek-ble-control/blob/main/src/lib/VenusPacket.ts),
-and [runtime layout](https://github.com/sphings79/marstek-ble-control/blob/main/src/lib/payloads/StatePayload.ts).
+[BLE connection](https://github.com/sphings79/marstek-ble-control/blob/997f20ba91ea494477e369547364b2c772e37195/src/lib/transport/WebBluetoothTransport.ts),
+[packet framing](https://github.com/sphings79/marstek-ble-control/blob/997f20ba91ea494477e369547364b2c772e37195/src/lib/VenusPacket.ts),
+and [runtime layout](https://github.com/sphings79/marstek-ble-control/blob/997f20ba91ea494477e369547364b2c772e37195/src/lib/payloads/StatePayload.ts).
